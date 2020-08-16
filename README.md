@@ -1,4 +1,4 @@
-<p align="center"> <img src="image.jpg"> </p>
+<p align="center"> <img src="https://github.com/kmr0877/kmr0877/blob/master/image.jpg"> </p>
 
 # **Hi there** 👋
 
